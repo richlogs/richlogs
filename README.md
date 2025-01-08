@@ -2,7 +2,7 @@
 
 I'm currently building out my profile, cool things to come :eyes: ... 
 
-## Skills
+## Skills :nerd:
 
 <p align="center">
   <a href="https://skillicons.dev">
