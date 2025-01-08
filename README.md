@@ -1,10 +1,14 @@
 ## Hi there 👋
 
-I'm currently building out my profile, cool things to come 👀 ... 
+I'm currently building out my profile, cool things to come :eyes: ... 
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,pytorch,fastapi,aws)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,pytorch,fastapi,aws" />
+  </a>
+</p>
 <!--
 **richlogs/richlogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
