@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently building out my profile, cool things to come 👀 ... 
 <!--
 **richlogs/richlogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
