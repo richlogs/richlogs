@@ -4,7 +4,7 @@ I'm currently building out my profile, cool things to come 👀 ...
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,sql,snowflake)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,pytorch,fastapi,aws)](https://skillicons.dev)
 <!--
 **richlogs/richlogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
